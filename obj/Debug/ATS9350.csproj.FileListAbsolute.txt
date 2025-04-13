@@ -1,0 +1,11 @@
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\bin\Debug\ATS9350_NPT.exe.config
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\bin\Debug\ATS9350_NPT.exe
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\bin\Debug\ATS9350_NPT.pdb
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350.csproj.AssemblyReference.cache
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350_NPT.Form1.resources
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350_NPT.Properties.Resources.resources
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350.csproj.GenerateResource.cache
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350.csproj.CoreCompileInputs.cache
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350_NPT.exe
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350_NPT.pdb
+E:\Graduate Project\ATS9350_samples\ATS9350_NPT\obj\Debug\ATS9350_NPT.exe.config
