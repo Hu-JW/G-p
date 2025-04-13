@@ -1,0 +1,440 @@
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Graduate Project\algo\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\SharedLibrary\obj\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\RBush.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Memory.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\RBush.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Memory.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Graduate Project\algo\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\Graduate Project\algo\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+E:\Graduate Project\algo\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\RBush.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Memory.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\RBush.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Memory.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Graduate Project\algo\app\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\Graduate Project\algo\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\Graduate Project\algo\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Graduate Project\algo\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+E:\Graduate Project\algo\app\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\app\SharedLibrary\obj\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\RBush.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Memory.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\RBush.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Memory.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\Graduate Project\algo\app\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\Graduate Project\algo\app\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Graduate Project\algo\app\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+E:\Graduate Project\algo\app\app\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\app\app\SharedLibrary\obj\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\RBush.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Memory.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\RBush.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Memory.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\Graduate Project\algo\App\App\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\Graduate Project\algo\App\App\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Graduate Project\algo\App\App\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+E:\Graduate Project\algo\App\App\app\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\App\App\app\SharedLibrary\obj\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\RBush.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Memory.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\RBush.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Memory.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\Graduate Project\algo\App(new)\App\app\SharedLibrary\obj\Debug\SharedLibrary.pdb
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.pdb
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.pdb
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.xml
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLi.02ED615C.Up2Date
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.dll
+D:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.pdb
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.pdb
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.pdb
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.xml
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.dll
+F:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.pdb
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLi.02ED615C.Up2Date
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.pdb
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.pdb
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.pdb
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.xml
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLi.02ED615C.Up2Date
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.pdb
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SharedLibrary.pdb
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Drawing.Common.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.pdb
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ClosedXML.Parser.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ExcelNumberFormat.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\MathNet.Numerics.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\RBush.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\ScottPlot.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\SixLabors.Fonts.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Buffers.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.IO.Packaging.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Memory.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Numerics.Vectors.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\bin\Debug\System.ValueTuple.xml
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\SharedLibrary\obj\Debug\SharedLibrary.pdb

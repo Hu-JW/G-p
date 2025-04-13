@@ -1,0 +1,31 @@
+E:\Graduate Project\ATS9350_samples\ATS9350AD\bin\Debug\ATS9350AD.dll
+E:\Graduate Project\ATS9350_samples\ATS9350AD\bin\Debug\ATS9350AD.pdb
+E:\Graduate Project\ATS9350_samples\ATS9350AD\bin\Debug\AlazarApiNet.dll
+E:\Graduate Project\ATS9350_samples\ATS9350AD\bin\Debug\AlazarApiNet.pdb
+E:\Graduate Project\ATS9350_samples\ATS9350AD\obj\Debug\ATS9350AD.csproj.AssemblyReference.cache
+E:\Graduate Project\ATS9350_samples\ATS9350AD\obj\Debug\ATS9350AD.csproj.CoreCompileInputs.cache
+E:\Graduate Project\ATS9350_samples\ATS9350AD\obj\Debug\ATS9350AD.csproj.CopyComplete
+E:\Graduate Project\ATS9350_samples\ATS9350AD\obj\Debug\ATS9350AD.dll
+E:\Graduate Project\ATS9350_samples\ATS9350AD\obj\Debug\ATS9350AD.pdb
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\ATS9350AD.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\ATS9350AD.pdb
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\AlazarApiNet.pdb
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.AssemblyReference.cache
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.CoreCompileInputs.cache
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.Up2Date
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.dll
+E:\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.pdb
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\ATS9350AD.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\ATS9350AD.pdb
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.AssemblyReference.cache
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.CoreCompileInputs.cache
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.Up2Date
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.dll
+D:\HU\HU\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.pdb
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\ATS9350AD.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\bin\Debug\ATS9350AD.pdb
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.AssemblyReference.cache
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.CoreCompileInputs.cache
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.csproj.CopyComplete
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.dll
+E:\Graduate Project\HUJW\HU(3.4)\ATS9350_samples_2\ATS9350_samples\ATS9350\ATS9350AD\obj\Debug\ATS9350AD.pdb
