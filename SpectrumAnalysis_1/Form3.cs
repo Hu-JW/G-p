@@ -67,7 +67,7 @@ namespace SpectrumAnalysis_1
             Task.Run(() =>
             {
                 // 调用信号处理方法
-                SharedClass.ProcessSignal("E:/Graduate Project/data/ATS9350_data");
+                SharedClass.ProcessSignal("E:/Graduate Project/data/ATS9350_data",500000000);
                 Console.WriteLine(SharedClass.Vr);
                 // 更新UI线程上的显示
                 this.Invoke((Action)(() =>

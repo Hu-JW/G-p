@@ -32,18 +32,18 @@ namespace Form2
             base.OnLoad(e);
             // 创建一个任务来异步调用 Connection 方法
            // List<short[]> allData = new List<short[]>();
-            Task<List<double []>> acquireTask = Task.Run(() => AcqToDiskApp.AcquireData(AcqToDiskApp.handle));
-            Console.WriteLine("acquire success");
-            Task exportTask = acquireTask.ContinueWith((t) =>
-            {
-                // 获取采集的数据
-                List<double[]> allData = t.Result;  // 获取从 acquireTask 返回的数据
+            //Task<List<double []>> acquireTask = Task.Run(() => AcqToDiskApp.AcquireData(AcqToDiskApp.handle));
+            //Console.WriteLine("acquire success");
+            //Task exportTask = acquireTask.ContinueWith((t) =>
+            //{
+            //    // 获取采集的数据
+            //    List<double[]> allData = t.Result;  // 获取从 acquireTask 返回的数据
 
-                // 将数据传递给 ExportDataToExcel
-                SharedClass.ExportDataToExcel(allData);
-            });
-            Task.WhenAll(acquireTask, exportTask).Wait();
-            Task processTask = Task.Run(() => SharedClass.ProcessSignal("D:/HU/ATS9350_data/yuanshi1.xlsx"));
+            //    // 将数据传递给 ExportDataToExcel
+            //    SharedClass.ExportDataToExcel(allData);
+            //});
+            //Task.WhenAll(acquireTask, exportTask).Wait();
+            Task processTask = Task.Run(() => SharedClass.ProcessSignal("D:/HU/ATS9350_data/yuanshi1.xlsx",500000000));
 
             // 等待所有任务完成
            

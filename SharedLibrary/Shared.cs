@@ -24,10 +24,9 @@ namespace SharedLibrary
         public static List <double> CorrectedFrequency = new List<double>();
         public static double correctedFrequency;
         public static double[] CorrectedFrequencytoarray = new double[40];
-        public static void ProcessSignal(string filepath)
+        public static void ProcessSignal(string filepath,int sampleRate)
         {
             // 示例信号处理逻辑
-            int sampleRate = 500000000;
             // var filePath = "E:/Graduate Project/data/tek0009CH2/tek0000CH.xlsx";
             var filePath = filepath;
             double[] hanningWindow = CreateHanningWindow(50);  // 使用汉宁窗以减少频谱泄漏
@@ -68,7 +67,7 @@ namespace SharedLibrary
                 //var powerSpectrum = FFT(autocorr, 50, 500000000);
                 // Step 4: Zero-padding
 
-                var peakIndex = FindPeakIndex(frequencies, magnitudes, 0, 50000000);
+                var peakIndex = FindPeakIndex(frequencies, magnitudes, 0, sampleRate);
                 // var peakIndex = FindPeakIndex(frequencies, powerSpectrum, 120000000, 200000000);
                 Console.WriteLine(peakIndex);
                 correctedFrequency = CalculateCentroidAroundPeak(frequencies, magnitudes, peakIndex, 8);  // Using 3 neighbors on each side
@@ -104,7 +103,7 @@ namespace SharedLibrary
 
 
                 // 例如在按钮点击事件中调用：
-                FFTPlotForm.ShowFFTChart(pd.fft_output);
+                FFTPlotForm.ShowFFTChart(pd.fft_output,sampleRate);
             
 
                 //plt2.AddScatter(frequencies, outpt_signal_array, label: "Vr per Gate", lineWidth: 1);

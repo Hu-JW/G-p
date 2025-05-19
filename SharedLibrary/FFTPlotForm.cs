@@ -5,7 +5,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 using Fast_fourier_transform;
 public class FFTPlotForm : Form
 {
-    public FFTPlotForm(List<ComplexNumber> fftResult)
+    public FFTPlotForm(List<ComplexNumber> fftResult,int sampleRate)
     {
         this.Text = "FFT 结果绘图";
         this.Width = 800;
@@ -15,8 +15,11 @@ public class FFTPlotForm : Form
         chart.Dock = DockStyle.Fill;
 
         ChartArea chartArea = new ChartArea();
-        chartArea.AxisX.Title = "Index";
+        chartArea.AxisX.Title = "MHz";
         chartArea.AxisY.Title = "Magnitude";
+        chartArea.AxisX.IsStartedFromZero = true;
+        chartArea.AxisX.Minimum = 0;
+        chartArea.AxisX.Interval = 10;
         chart.ChartAreas.Add(chartArea);
 
         Series series = new Series();
@@ -25,12 +28,12 @@ public class FFTPlotForm : Form
         chart.Series.Add(series);
 
         // 遍历 FFT 结果，计算幅值后加入数据点
-        for (int i = 0; i < fftResult.Count; i++)
+        for (int i = fftResult.Count / 2; i < fftResult.Count; i++)
         {
             double magnitude = fftResult[i].GetMagnitude();
-            series.Points.AddXY(i, magnitude);
+            series.Points.AddXY((i - fftResult.Count / 2) * sampleRate / 64, magnitude);
         }
-
+       
         this.Controls.Add(chart);
     }
 
@@ -51,10 +54,10 @@ public class FFTPlotForm : Form
     {
 
     }
-    public static void ShowFFTChart(List<ComplexNumber> fftData)
+    public static void ShowFFTChart(List<ComplexNumber> fftData,int sampleRate)
     {
         // 创建 FFTPlotForm 窗体的实例，将 FFT 数据传入构造函数
-        FFTPlotForm plotForm = new FFTPlotForm(fftData);
+        FFTPlotForm plotForm = new FFTPlotForm(fftData,sampleRate);
 
         // 以模式对话框方式显示（调用 Show() 则为非模态窗体）
         plotForm.ShowDialog();
